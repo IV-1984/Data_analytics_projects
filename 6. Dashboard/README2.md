@@ -1,1 +1,7 @@
 ![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/1.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/2.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/3.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/4.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/5.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/6.png)
+![Image alt](https://github.com/IV-1984/Data_analytics_projects/blob/main/6.%20Dashboard/7.png)
