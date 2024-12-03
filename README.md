@@ -1,6 +1,6 @@
 ## Data_analytics_projects
 
-| ___Проект___ | ___Используемые библиотеки и инструменты___ | ___Описание проекта___ |
+| ___Проект___ | ___Библиотеки и инструменты___ | ___Описание___ |
 | :--------------------: | :---------------------: |:---------------------------:|
 | 1. [Loan_data_analysis](https://github.com/IV-1984/Data_analytics_projects/blob/main/4.%20Loan%20Data%20Analysis/Loan%20Data%20Analysis-final.ipynb) | Pandas, Numpy, Matplotlib, Seaborn  | Анализ кредитного портфеля с целью выявления проблемных моментов в кредитной политике, оценка влияния различных факторов на своевременное погашение кредита.
 | 2. [Campany_analysis](https://github.com/IV-1984/Data_analytics_projects/blob/main/7.%20Campany_ab/campany_ab.ipynb) | Pandas, Numpy, Plotly, Matplotlib, Seaborn  |Анализ шаблонов email-рассылки для различных сегментов клиентской базы.
